@@ -31,7 +31,7 @@ This project demonstrates object-oriented design, data structures, and basic ver
 ## 🔗 Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/amberli/mini-git.git
+git clone https://github.com/AmberErinLi/mini-git.git
 ```
 2. Open the project in your IDE (Visual Studio Code, IntelliJ, etc.).
 3. Run the Client class to interact with Mini-Git in the console.
